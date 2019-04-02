@@ -1,1 +1,1 @@
-lkjasdf;asdf
+print("this is clean data")
